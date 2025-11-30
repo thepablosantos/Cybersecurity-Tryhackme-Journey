@@ -7,11 +7,11 @@
 
 ---
 
-## 🏅 TryHackMe Badge
+## 🏅 TryHackMe Profile
 
 <div align="center">
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/J0hnTitor.png)](https://tryhackme.com/p/JohnTitor)
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-JohnTitor-2EFF00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JohnTitor)
 
 </div>
 
@@ -32,7 +32,6 @@
 | **Streak Atual** | 🔥 13 dias |
 | **Rooms Completadas** | 54 |
 | **Certificados** | 1 (Pre-Security) |
-| **Learning Paths** | 6 em progresso |
 
 ---
 
