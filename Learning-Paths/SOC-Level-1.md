@@ -1,19 +1,17 @@
 # SOC Level 1 Learning Path
 
-**Status:** 🔄 Iniciado
+**Status:** 🔄 Started
 
-## Visão Geral
+## Overview
 
-Path focado em habilidades necessárias para iniciar carreira como SOC Level 1 Analyst ou Security Analyst.
+Path focused on skills needed to start a career as a SOC Level 1 Analyst or Security Analyst.
 
-## Seções Completadas
+## Completed Sections
 
 ### Section 1: Blue Team Introduction ✅
 - ✅ Junior Security Analyst Intro
 - ✅ SOC Role in Blue Team
 
-## Notas
+## Notes
 
-Este path foi iniciado para compreender a perspectiva defensiva, mas o foco principal permanece em Red Team. Conhecimento de SOC é valioso para entender como defensores operam.
-
-
+This path was started to understand the defensive perspective, but the main focus remains on Red Team. SOC knowledge is valuable to understand how defenders operate.

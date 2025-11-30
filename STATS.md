@@ -1,4 +1,4 @@
-# 📊 Estatísticas Detalhadas
+# 📊 Detailed Statistics
 
 ## TryHackMe Profile Stats
 
@@ -9,40 +9,40 @@
 
 ---
 
-## 📈 Progresso Mensal
+## 📈 Monthly Progress
 
-### Novembro 2025
+### November 2025
 
-| Mês | Streak | Rooms | Foco Principal |
-|-----|--------|-------|----------------|
+| Month | Streak | Rooms | Main Focus |
+|-------|--------|-------|------------|
 | Nov 2025 | 🔥 13 | 54 | Web App Security, Network Security |
 
-*Dados serão atualizados conforme o progresso avança*
+*Data will be updated as progress advances*
 
 ---
 
-## 📚 Learning Paths - Progresso Detalhado
+## 📚 Learning Paths - Detailed Progress
 
-| Learning Path | Progresso | Status | Rooms Completadas |
-|--------------|-----------|--------|-------------------|
-| Pre-Security | 100% | ✅ Completo | 15/15 |
-| Cyber Security 101 | ~50% | 🔄 Em Progresso | ~12/24 |
-| Penetration Tester | ~77% | 🔄 Em Progresso | ~30/39 |
-| Web Fundamentals | ~76% | 🔄 Em Progresso | ~15/20 |
-| Web Application Pentesting | 3% | 🔄 Iniciado | 1/30+ |
-| Security Engineer | 4% | 🔄 Iniciado | 2/50+ |
-| SOC Level 1 | 2% | 🔄 Iniciado | 2/100+ |
+| Learning Path | Progress | Status | Rooms Completed |
+|--------------|----------|--------|----------------|
+| Pre-Security | 100% | ✅ Complete | 15/15 |
+| Cyber Security 101 | ~50% | 🔄 In Progress | ~12/24 |
+| Penetration Tester | ~77% | 🔄 In Progress | ~30/39 |
+| Web Fundamentals | ~76% | 🔄 In Progress | ~15/20 |
+| Web Application Pentesting | 3% | 🔄 Started | 1/30+ |
+| Security Engineer | 4% | 🔄 Started | 2/50+ |
+| SOC Level 1 | 2% | 🔄 Started | 2/100+ |
 
 ---
 
-## 🎯 Distribuição de Rooms por Categoria
+## 🎯 Room Distribution by Category
 
-| Categoria | Quantidade | Percentual |
-|-----------|------------|------------|
+| Category | Quantity | Percentage |
+|----------|----------|------------|
 | Web Application Security | 24 | 44% |
 | Network Security | 9 | 17% |
 | Linux & Windows | 7 | 13% |
-| Fundamentos | 8 | 15% |
+| Fundamentals | 8 | 15% |
 | Networking | 5 | 9% |
 | OWASP Top 10 | 3 | 6% |
 
@@ -50,24 +50,23 @@
 
 ## 🔥 Streak History
 
-- **Atual:** 13 dias (Novembro 2025)
-- **Objetivo:** Manter streak diário
+- **Current:** 13 days (November 2025)
+- **Goal:** Maintain daily streak
 
 ---
 
-## 📊 Estatísticas de Aprendizado
+## 📊 Learning Statistics
 
-### Por Dificuldade
+### By Difficulty
 - **Easy:** ~40 rooms
 - **Medium:** ~12 rooms
 - **Hard/Insane:** ~2 rooms
 
-### Por Tipo
+### By Type
 - **Walkthrough:** ~45 rooms
 - **Challenge:** ~9 rooms
 - **Info:** ~10 rooms
 
 ---
 
-*Última atualização: Novembro 2025*
-
+*Last updated: November 2025*

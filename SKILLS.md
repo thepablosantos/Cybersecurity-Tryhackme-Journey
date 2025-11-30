@@ -1,32 +1,32 @@
-# Skills & Competências
+# Skills & Competencies
 
-## 🎯 Áreas de Foco
+## 🎯 Focus Areas
 
 ### Red Team / Penetration Testing
-- **Nível:** Intermediário
-- **Status:** Em desenvolvimento ativo
+- **Level:** Intermediate
+- **Status:** Actively developing
 
-## 🛠️ Ferramentas Dominadas
+## 🛠️ Mastered Tools
 
 ### Web Application Security
-- ✅ **Burp Suite** - Proficiente em todas as funcionalidades principais
+- ✅ **Burp Suite** - Proficient in all main features
   - Repeater
   - Intruder
   - Extensions
-  - Outros módulos
+  - Other modules
 
 ### Network Security
-- ✅ **Nmap** - Técnicas avançadas
+- ✅ **Nmap** - Advanced techniques
   - Live host discovery
-  - Basic e advanced port scans
+  - Basic and advanced port scans
   - Post port scans (service/OS detection, NSE)
 
-### Reconhecimento
-- ✅ Ferramentas de reconhecimento passivo
-- ✅ Ferramentas de reconhecimento ativo
-- ✅ Enumeração de subdomínios
+### Reconnaissance
+- ✅ Passive reconnaissance tools
+- ✅ Active reconnaissance tools
+- ✅ Subdomain enumeration
 
-## 📚 Conhecimentos Técnicos
+## 📚 Technical Knowledge
 
 ### Web Application Vulnerabilities
 - ✅ Authentication Bypass
@@ -39,33 +39,31 @@
 - ✅ SQL Injection
 
 ### Network & Protocols
-- ✅ Fundamentos de redes (OSI, TCP/IP)
-- ✅ Protocolos comuns (HTTP, FTP, SMTP, POP3, IMAP)
-- ✅ Análise de protocolos e inseguranças
-- ✅ Mitigação via SSH e SSL/TLS
+- ✅ Network fundamentals (OSI, TCP/IP)
+- ✅ Common protocols (HTTP, FTP, SMTP, POP3, IMAP)
+- ✅ Protocol analysis and insecurities
+- ✅ Mitigation via SSH and SSL/TLS
 
-### Sistemas Operacionais
-- ✅ Linux (fundamentos e comandos)
-- ✅ Windows (fundamentos e segurança)
+### Operating Systems
+- ✅ Linux (fundamentals and commands)
+- ✅ Windows (fundamentals and security)
 
-### Metodologias
+### Methodologies
 - ✅ Pentesting fundamentals
-- ✅ Princípios de segurança
-- ✅ Pesquisa de vulnerabilidades
-- ✅ Exploração de vulnerabilidades
+- ✅ Security principles
+- ✅ Vulnerability research
+- ✅ Vulnerability exploitation
 
-## 🎓 Certificações TryHackMe
+## 🎓 TryHackMe Certifications
 
 - ✅ Pre-Security (100%)
 
-## 📈 Progresso de Aprendizado
+## 📈 Learning Progress
 
-### Completado
+### Completed
 - Pre-Security Learning Path
-- Módulos principais de Penetration Tester
-- Web Fundamentals (maior parte)
-- Introdução a Cyber Security 101
+- Main Penetration Tester modules
+- Web Fundamentals (most part)
+- Cyber Security 101 introduction
 
 ---
-
-

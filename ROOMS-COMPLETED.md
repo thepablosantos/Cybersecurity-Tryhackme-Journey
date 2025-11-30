@@ -1,10 +1,10 @@
-# Rooms Completadas - Lista Completa
+# Completed Rooms - Complete List
 
-> Lista organizada de todas as 54 rooms completadas, agrupadas por categoria para referência rápida.
+> Organized list of all 54 completed rooms, grouped by category for quick reference.
 
 ## 🌐 Web Application Security (24 rooms)
 
-### Fundamentos Web
+### Web Fundamentals
 - DNS in Detail
 - HTTP in Detail
 - How Websites Work
@@ -30,7 +30,7 @@
 - Burp Suite: Other Modules
 - Burp Suite: Extensions
 
-### Outras
+### Others
 - Vulnerabilities 101
 - Exploit Vulnerabilities
 
@@ -57,7 +57,7 @@
 - Windows Fundamentals 2
 - Windows Fundamentals 3
 
-## 🔐 Fundamentos de Segurança (8 rooms)
+## 🔐 Security Fundamentals (8 rooms)
 
 - Offensive Security Intro
 - Defensive Security Intro
@@ -83,19 +83,17 @@
 - OWASP Top 10 2025: Application Design Flaws
 - OWASP Top 10 2025: Insecure Data Handling
 
-## 🔧 Outras (2 rooms)
+## 🔧 Others (2 rooms)
 
 - Search Skills
 - Moniker Link (CVE-2024-21413)
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 - **Total:** 54 rooms
-- **Foco Principal:** Web Application Security (44% das rooms)
-- **Network Security:** 17% das rooms
-- **Fundamentos:** 15% das rooms
+- **Main Focus:** Web Application Security (44% of rooms)
+- **Network Security:** 17% of rooms
+- **Fundamentals:** 15% of rooms
 
 ---
-*Última atualização: Novembro 2025*
-
-
+*Last updated: November 2025*

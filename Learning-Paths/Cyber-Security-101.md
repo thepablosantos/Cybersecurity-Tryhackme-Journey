@@ -1,12 +1,12 @@
 # Cyber Security 101 Learning Path
 
-**Status:** 🔄 ~50% Completo
+**Status:** 🔄 ~50% Complete
 
-## Visão Geral
+## Overview
 
-Este path fornece uma introdução sólida às diferentes áreas em Computer Security, cobrindo conceitos fundamentais e aplicações práticas.
+This path provides a solid introduction to the different areas in Computer Security, covering fundamental concepts and practical applications.
 
-## Progresso por Seção
+## Progress by Section
 
 ### Section 1: Start Your Cyber Security Journey ✅
 - ✅ Offensive Security Intro
@@ -92,11 +92,9 @@ Este path fornece uma introdução sólida às diferentes áreas em Computer Sec
 - ✅ OWASP Top 10 2025: Application Design Flaws
 - ✅ OWASP Top 10 2025: Insecure Data Handling
 
-## Foco Atual
+## Current Focus
 
-Priorizando seções relacionadas a Red Team:
+Prioritizing sections related to Red Team:
 - Exploitation Basics (Metasploit)
 - Web Hacking
 - Offensive Security Tooling
-
-

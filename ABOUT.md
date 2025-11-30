@@ -1,24 +1,23 @@
 # About
 
-Documentação profissional da jornada de aprendizado em segurança cibernética através do TryHackMe, com foco em Red Team e Penetration Testing. Este repositório serve como portfólio técnico, demonstrando progresso, certificações e habilidades desenvolvidas em segurança ofensiva.
+Professional documentation of the cybersecurity learning journey through TryHackMe, focused on Red Team and Penetration Testing. This repository serves as a technical portfolio, demonstrating progress, certifications, and skills developed in offensive security.
 
-## 🎯 Objetivo
+## 🎯 Objective
 
-Demonstrar o progresso contínuo no aprendizado de segurança cibernética, documentando rooms completadas, learning paths, certificações obtidas e habilidades técnicas desenvolvidas.
+Demonstrate continuous progress in cybersecurity learning by documenting completed rooms, learning paths, obtained certifications, and developed technical skills.
 
-## 📚 Conteúdo
+## 📚 Content
 
-- **Learning Paths:** Documentação detalhada de cada path do TryHackMe
-- **Certificados:** Certificações obtidas e em progresso
-- **Skills:** Habilidades técnicas desenvolvidas
-- **Progresso:** Tracking mensal de atividades e conquistas
+- **Learning Paths:** Detailed documentation of each TryHackMe path
+- **Certificates:** Obtained and in-progress certifications
+- **Skills:** Developed technical skills
+- **Progress:** Monthly tracking of activities and achievements
 
-## 🛡️ Foco
+## 🛡️ Focus
 
-Red Team / Penetration Testing - Desenvolvimento de habilidades em segurança ofensiva, web application security, network security e metodologias de teste de penetração.
+Red Team / Penetration Testing - Development of skills in offensive security, web application security, network security, and penetration testing methodologies.
 
 ## 🔗 Links
 
-- [Perfil TryHackMe](https://tryhackme.com/p/JohnTitor)
+- [TryHackMe Profile](https://tryhackme.com/p/JohnTitor)
 - [GitHub Profile](https://github.com/thepablosantos)
-

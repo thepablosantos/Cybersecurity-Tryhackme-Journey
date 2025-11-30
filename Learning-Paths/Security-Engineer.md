@@ -1,19 +1,17 @@
 # Security Engineer Learning Path
 
-**Status:** 🔄 Iniciado
+**Status:** 🔄 Started
 
-## Visão Geral
+## Overview
 
-Path focado em engenharia de segurança, cobrindo design de sistemas seguros, redes e software, além de gestão de riscos e resposta a incidentes.
+Path focused on security engineering, covering secure system, network, and software design, as well as risk management and incident response.
 
-## Seções Completadas
+## Completed Sections
 
 ### Section 1: Introduction to Security Engineering ✅
 - ✅ Security Engineer Intro
 - ✅ Security Principles
 
-## Próximos Passos
+## Next Steps
 
-Este path está em pausa enquanto foco em habilidades de Red Team e Penetration Testing. Será retomado para complementar conhecimentos em segurança defensiva.
-
-
+This path is on hold while I focus on Red Team and Penetration Testing skills. It will be resumed to complement defensive security knowledge.

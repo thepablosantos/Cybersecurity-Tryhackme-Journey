@@ -1,12 +1,12 @@
 # Web Fundamentals Learning Path
 
-**Status:** 🔄 Em Progresso
+**Status:** 🔄 In Progress
 
-## Visão Geral
+## Overview
 
-Pathway focado em segurança de aplicações web, cobrindo desde fundamentos até vulnerabilidades comuns e ferramentas da indústria.
+Pathway focused on web application security, covering from fundamentals to common vulnerabilities and industry tools.
 
-## Seções Completadas
+## Completed Sections
 
 ### Section 1: How The Web Works ✅
 - ✅ DNS in Detail
@@ -39,15 +39,13 @@ Pathway focado em segurança de aplicações web, cobrindo desde fundamentos at�
 - ✅ HTTP in Detail
 - ✅ Burp Suite: The Basics
 
-## Habilidades Desenvolvidas
+## Developed Skills
 
-- Compreensão profunda de como aplicações web funcionam
-- Identificação e exploração de vulnerabilidades web comuns
-- Uso profissional do Burp Suite
-- Metodologias de teste de aplicações web
+- Deep understanding of how web applications work
+- Identification and exploitation of common web vulnerabilities
+- Professional use of Burp Suite
+- Web application testing methodologies
 
-## Notas
+## Notes
 
-Este path se sobrepõe parcialmente com o **Penetration Tester** path, mas com foco específico em web application security. As rooms são organizadas para evitar duplicação.
-
-
+This path partially overlaps with the **Penetration Tester** path, but with specific focus on web application security. Rooms are organized to avoid duplication.

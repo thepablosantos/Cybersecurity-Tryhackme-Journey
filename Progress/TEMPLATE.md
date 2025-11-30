@@ -1,33 +1,31 @@
-# Progresso - [Mês] [Ano]
+# Progress - [Month] [Year]
 
-**Streak Atual:** [X] dias
+**Current Streak:** [X] days
 
-## Estatísticas do Mês
+## Month Statistics
 
-- **Dias Ativos:** [X]
-- **Rooms Completadas:** [X] (total acumulado)
-- **Foco Principal:** [Área de foco]
+- **Active Days:** [X]
+- **Rooms Completed:** [X] (total accumulated)
+- **Main Focus:** [Focus area]
 
-## Learning Paths em Progresso
+## Learning Paths in Progress
 
 - [Path 1] ([%])
 - [Path 2] ([%])
 
-## Atividades Principais
+## Main Activities
 
-### [Categoria 1]
-- [Atividade realizada]
+### [Category 1]
+- [Completed activity]
 
-### [Categoria 2]
-- [Atividade realizada]
+### [Category 2]
+- [Completed activity]
 
-## Objetivos para o Próximo Mês
+## Goals for Next Month
 
-- [ ] [Objetivo 1]
-- [ ] [Objetivo 2]
-- [ ] [Objetivo 3]
+- [ ] [Goal 1]
+- [ ] [Goal 2]
+- [ ] [Goal 3]
 
 ---
-*Última atualização: [Mês] [Ano]*
-
-
+*Last updated: [Month] [Year]*

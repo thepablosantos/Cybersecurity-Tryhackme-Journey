@@ -1,12 +1,12 @@
 # Penetration Tester Learning Path
 
-**Status:** 🔄 Em Progresso | **Foco Principal:** Red Team
+**Status:** 🔄 In Progress | **Main Focus:** Red Team
 
-## Visão Geral
+## Overview
 
-Este path cobre as habilidades essenciais para se tornar um penetration tester, incluindo metodologias, ferramentas e técnicas práticas de teste de penetração.
+This path covers the essential skills to become a penetration tester, including methodologies, tools, and practical penetration testing techniques.
 
-## Módulos Completados
+## Completed Modules
 
 ### Introduction to Cyber Security ✅
 - ✅ Offensive Security Intro
@@ -53,33 +53,24 @@ Este path cobre as habilidades essenciais para se tornar um penetration tester, 
 - ✅ Exploit Vulnerabilities
 - ⏳ Vulnerability Capstone
 
-## Conceitos e Habilidades Desenvolvidas
+## Developed Concepts and Skills
 
 ### Web Application Security
-- Descoberta de conteúdo e enumeração de subdomínios
-- Bypass de autenticação e autorização (IDOR)
-- Inclusão de arquivos (LFI/RFI)
+- Content discovery and subdomain enumeration
+- Authentication and authorization bypass (IDOR)
+- File inclusion (LFI/RFI)
 - Server-Side Request Forgery (SSRF)
 - Cross-Site Scripting (XSS)
 - Race Conditions
 - Command Injection
 - SQL Injection
 
-### Ferramentas
-- **Burp Suite:** Dominando todas as funcionalidades principais
-- **Nmap:** Técnicas avançadas de scanning e enumeração
-- Metodologias de pesquisa de vulnerabilidades
+### Tools
+- **Burp Suite:** Mastering all main features
+- **Nmap:** Advanced scanning and enumeration techniques
+- Vulnerability research methodologies
 
 ### Network Security
-- Reconhecimento passivo e ativo
-- Análise de protocolos e servidores
-- Técnicas avançadas de port scanning
-
-## Próximos Passos
-
-- Completar Net Sec Challenge
-- Completar Vulnerability Capstone
-- Iniciar módulos de exploração avançada
-- Praticar em CTFs e labs práticos
-
-
+- Passive and active reconnaissance
+- Protocol and server analysis
+- Advanced port scanning techniques

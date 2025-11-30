@@ -1,12 +1,12 @@
 # Pre-Security Learning Path
 
-**Status:** ✅ 100% Completo | **Certificado:** ✅ Obtido
+**Status:** ✅ 100% Complete | **Certificate:** ✅ Obtained
 
-## Visão Geral
+## Overview
 
-Este learning path fornece os pré-requisitos técnicos fundamentais para começar em segurança cibernética. Aprender a atacar ou defender qualquer tecnologia requer primeiro entender como essa tecnologia funciona.
+This learning path provides the fundamental technical prerequisites to get started in cybersecurity. Learning to attack or defend any technology requires first understanding how that technology works.
 
-## Seções Completadas
+## Completed Sections
 
 ### Section 1: Introduction to Cyber Security
 - ✅ Offensive Security Intro
@@ -36,16 +36,14 @@ Este learning path fornece os pré-requisitos técnicos fundamentais para começ
 - ✅ Windows Fundamentals 2
 - ✅ Windows Fundamentals 3
 
-## Conceitos Aprendidos
+## Learned Concepts
 
-- Fundamentos de redes e protocolos
-- Arquitetura OSI e encapsulamento de dados
-- Funcionamento da web (DNS, HTTP, websites)
-- Comandos e estrutura do Linux
-- Fundamentos do Windows e segurança
+- Network and protocol fundamentals
+- OSI architecture and data encapsulation
+- How the web works (DNS, HTTP, websites)
+- Linux commands and structure
+- Windows fundamentals and security
 
-## Próximos Passos
+## Next Steps
 
-Após completar este path, iniciei o **Cyber Security 101** e **Penetration Tester** para aprofundar conhecimentos em segurança ofensiva.
-
-
+After completing this path, I started **Cyber Security 101** and **Penetration Tester** to deepen knowledge in offensive security.

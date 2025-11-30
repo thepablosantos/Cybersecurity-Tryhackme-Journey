@@ -1,23 +1,23 @@
-# 🏆 Certificados TryHackMe
+# 🏆 TryHackMe Certificates
 
-## Certificados Obtidos
+## Obtained Certificates
 
 ### ✅ Pre-Security
 
-**Status:** Completo (100%)  
-**Data de Conclusão:** 2025  
-**Nível:** Easy  
-**Certificado:** [📄 Ver PDF](./pre-security.pdf)
+**Status:** Complete (100%)  
+**Completion Date:** 2025  
+**Level:** Easy  
+**Certificate:** [📄 View PDF](./pre-security.pdf)
 
-#### Descrição
-O Pre-Security Learning Path fornece os pré-requisitos técnicos fundamentais para começar em segurança cibernética. Este path cobre:
+#### Description
+The Pre-Security Learning Path provides the fundamental technical prerequisites to get started in cybersecurity. This path covers:
 
-- Fundamentos de redes e protocolos
-- Como a web funciona (DNS, HTTP, websites)
-- Linux e Windows fundamentals
-- Introdução à segurança cibernética
+- Network and protocol fundamentals
+- How the web works (DNS, HTTP, websites)
+- Linux and Windows fundamentals
+- Introduction to cybersecurity
 
-#### Seções Completadas
+#### Completed Sections
 - ✅ Introduction to Cyber Security
 - ✅ Network Fundamentals
 - ✅ How The Web Works
@@ -26,31 +26,21 @@ O Pre-Security Learning Path fornece os pré-requisitos técnicos fundamentais p
 
 ---
 
-## Certificados em Progresso
+## Certificates in Progress
 
 ### 🔄 Cyber Security 101
-**Progresso:** ~50%  
-**Nível:** Easy
+**Progress:** ~50%  
+**Level:** Easy
 
 ### 🔄 Jr. Penetration Tester
-**Progresso:** 77%  
-**Nível:** Intermediate  
-**Certificação Profissional:** PT1
+**Progress:** 77%  
+**Level:** Intermediate  
+**Professional Certification:** PT1
 
 ### 🔄 Web Fundamentals
-**Progresso:** ~76%  
-**Nível:** Easy
+**Progress:** ~76%  
+**Level:** Easy
 
 ---
 
-## Próximos Certificados Almejados
-
-- [ ] **Jr. Penetration Tester (PT1)** - Certificação Profissional
-- [ ] **Web Application Pentesting** - Intermediate
-- [ ] **Red Teaming** - Hard
-- [ ] **Security Analyst Level 1 (SAL1)** - Certificação Profissional
-
----
-
-*Última atualização: Novembro 2025*
-
+*Last updated: November 2025*

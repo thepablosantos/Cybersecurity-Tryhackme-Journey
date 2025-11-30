@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Journey - TryHackMe
 
-> Documentação profissional da minha jornada de aprendizado em segurança cibernética através do TryHackMe, com foco em **Red Team** e **Penetration Testing**.
+> Professional documentation of my cybersecurity learning journey through TryHackMe, focused on **Red Team** and **Penetration Testing**.
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue)](https://tryhackme.com/p/JohnTitor)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/thepablosantos)
@@ -25,35 +25,35 @@
 **Rank:** Top 10%  
 **Focus:** Red Team / Penetration Testing
 
-### Estatísticas Principais
+### Main Statistics
 
-| Métrica | Valor |
-|---------|-------|
-| **Streak Atual** | 🔥 13 dias |
-| **Rooms Completadas** | 54 |
-| **Certificados** | 1 (Pre-Security) |
+| Metric | Value |
+|--------|-------|
+| **Current Streak** | 🔥 13 days |
+| **Rooms Completed** | 54 |
+| **Certificates** | 1 (Pre-Security) |
 
 ---
 
-## 🏆 Certificados e Learning Paths
+## 🏆 Certificates and Learning Paths
 
-| Certificado | Learning Path | Nível | Status | Certificado |
+| Certificate | Learning Path | Level | Status | Certificate |
 |------------|---------------|-------|--------|-------------|
-| ✅ | [Pre-Security](./Learning-Paths/Pre-Security.md) | Easy | 100% | [📄 Ver Certificado](./pre-security.pdf) |
+| ✅ | [Pre-Security](./Learning-Paths/Pre-Security.md) | Easy | 100% | [📄 View Certificate](./pre-security.pdf) |
 | 🔄 | [Cyber Security 101](./Learning-Paths/Cyber-Security-101.md) | Easy | ~50% | - |
-| 🔄 | [Penetration Tester](./Learning-Paths/Penetration-Tester.md) | Intermediate | Em andamento | - |
+| 🔄 | [Penetration Tester](./Learning-Paths/Penetration-Tester.md) | Intermediate | In Progress | - |
 | 🔄 | [Web Fundamentals](./Learning-Paths/Web-Fundamentals.md) | Easy | ~76% | - |
 | 🔄 | [Web Application Pentesting](./Learning-Paths/Web-Application-Pentesting.md) | Intermediate | 3% | - |
 | 🔄 | [Security Engineer](./Learning-Paths/Security-Engineer.md) | Easy | 4% | - |
 | 🔄 | [SOC Level 1](./Learning-Paths/SOC-Level-1.md) | Easy | 2% | - |
 
-**Legenda:** ✅ Completo | 🔄 Em Progresso | ⏳ Planejado
+**Legend:** ✅ Complete | 🔄 In Progress | ⏳ Planned
 
 ---
 
-## 📚 Roadmap de Aprendizado
+## 📚 Learning Roadmap
 
-### 🎯 Foco Principal: Red Team / Penetration Testing
+### 🎯 Main Focus: Red Team / Penetration Testing
 
 ```
 Computer Science Basics
@@ -70,48 +70,48 @@ Computer Science Basics
 
 ---
 
-## 📈 Progresso Mensal
+## 📈 Monthly Progress
 
-### Novembro 2025
+### November 2025
 
-| Dia | Streak | Rooms | Foco |
-|-----|--------|-------|------|
+| Day | Streak | Rooms | Focus |
+|-----|--------|-------|-------|
 | 1-13 | 🔥 13 | 54 | Web App Security, Network Security |
 
-**Detalhes:** [Ver Progresso Detalhado](./Progress/2025-11.md)
+**Details:** [View Detailed Progress](./Progress/2025-11.md)
 
 ---
 
-## 🛠️ Skills Desenvolvidas
+## 🛠️ Developed Skills
 
 ### Web Application Security
-- ✅ Burp Suite (todas as funcionalidades principais)
-- ✅ Vulnerabilidades web comuns (XSS, SQLi, SSRF, IDOR, etc.)
-- ✅ Técnicas de reconhecimento e enumeração
+- ✅ Burp Suite (all main features)
+- ✅ Common web vulnerabilities (XSS, SQLi, SSRF, IDOR, etc.)
+- ✅ Reconnaissance and enumeration techniques
 
 ### Network Security
-- ✅ Nmap (técnicas avançadas)
-- ✅ Reconhecimento passivo e ativo
-- ✅ Análise de protocolos
+- ✅ Nmap (advanced techniques)
+- ✅ Passive and active reconnaissance
+- ✅ Protocol analysis
 
-### Fundamentos
-- ✅ Linux e Windows
-- ✅ Redes e protocolos
-- ✅ Metodologias de pentesting
+### Fundamentals
+- ✅ Linux and Windows
+- ✅ Networks and protocols
+- ✅ Pentesting methodologies
 
-**Ver detalhes completos:** [SKILLS.md](./SKILLS.md)
+**View full details:** [SKILLS.md](./SKILLS.md)
 
 ---
 
-## 📁 Estrutura do Repositório
+## 📁 Repository Structure
 
 ```
 Cybersecurity-Tryhackme-Journey/
-├── README.md                    # Este arquivo
-├── SKILLS.md                    # Habilidades detalhadas
-├── ROOMS-COMPLETED.md          # Lista completa de rooms
-├── pre-security.pdf            # Certificado Pre-Security
-├── Learning-Paths/              # Documentação por path
+├── README.md                    # This file
+├── SKILLS.md                    # Detailed skills
+├── ROOMS-COMPLETED.md          # Complete rooms list
+├── pre-security.pdf            # Pre-Security certificate
+├── Learning-Paths/              # Documentation by path
 │   ├── Pre-Security.md
 │   ├── Cyber-Security-101.md
 │   ├── Penetration-Tester.md
@@ -119,34 +119,34 @@ Cybersecurity-Tryhackme-Journey/
 │   ├── Web-Application-Pentesting.md
 │   ├── Security-Engineer.md
 │   └── SOC-Level-1.md
-└── Progress/                    # Tracking mensal
+└── Progress/                    # Monthly tracking
     ├── 2025-11.md
     └── TEMPLATE.md
 ```
 
 ---
 
-## 📝 Notas Importantes
+## 📝 Important Notes
 
-Este repositório documenta minha jornada de aprendizado em segurança cibernética. 
+This repository documents my cybersecurity learning journey.
 
-- ✅ **Conceitos aprendidos** são documentados para referência futura
-- ✅ **Progresso e estatísticas** são atualizados regularmente
-- ❌ **Flags e soluções completas** não são compartilhadas (respeitando a comunidade)
-- ❌ **Writeups detalhados** que comprometam o aprendizado de outros
+- ✅ **Learned concepts** are documented for future reference
+- ✅ **Progress and statistics** are updated regularly
+- ❌ **Flags and complete solutions** are not shared (respecting the community)
+- ❌ **Detailed writeups** that compromise others' learning
 
 ---
 
-## 🔗 Links Úteis
+## 🔗 Useful Links
 
-- [Perfil TryHackMe](https://tryhackme.com/p/JohnTitor)
+- [TryHackMe Profile](https://tryhackme.com/p/JohnTitor)
 - [GitHub Profile](https://github.com/thepablosantos)
 - [TryHackMe Platform](https://tryhackme.com)
 
 ---
 
-## 📊 Estatísticas Detalhadas
+## 📊 Detailed Statistics
 
-Para estatísticas completas, progresso detalhado e métricas: [STATS.md](./STATS.md)
+For complete statistics, detailed progress and metrics: [STATS.md](./STATS.md)
 
-*As estatísticas são atualizadas manualmente. Para ver dados em tempo real, visite meu [perfil no TryHackMe](https://tryhackme.com/p/JohnTitor).*
+*Statistics are updated manually. To see real-time data, visit my [TryHackMe profile](https://tryhackme.com/p/JohnTitor).*
