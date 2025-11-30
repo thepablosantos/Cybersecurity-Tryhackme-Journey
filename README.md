@@ -11,11 +11,7 @@
 
 <div align="center">
 
-### Badge com Atualizações ao Vivo
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1908936" style='border:none; width:100%; max-width:600px; height:200px;'></iframe>
-
-### Badge Estático
-<img src="https://tryhackme-badges.s3.amazonaws.com/J0hnTitor.png" alt="TryHackMe Badge" width="400" />
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/J0hnTitor.png)](https://tryhackme.com/p/JohnTitor)
 
 </div>
 
@@ -70,8 +66,7 @@ Computer Science Basics
 🔄 Cyber Security Career Skills
     ├── 🔄 Jr Penetration Tester (77%)
     ├── 🔄 Web Fundamentals (76%)
-    ├── 🔄 Web Application Pentesting (3%)
-    └── ⏳ Red Teaming (Planejado)
+    └── 🔄 Web Application Pentesting (3%)
 ```
 
 ---
@@ -85,22 +80,6 @@ Computer Science Basics
 | 1-13 | 🔥 13 | 54 | Web App Security, Network Security |
 
 **Detalhes:** [Ver Progresso Detalhado](./Progress/2025-11.md)
-
----
-
-## 🎯 Objetivos
-
-### Curto Prazo
-- [ ] Completar Cyber Security 101
-- [ ] Finalizar Web Fundamentals
-- [ ] Avançar em Penetration Tester path
-- [ ] Manter streak diário
-
-### Longo Prazo
-- [ ] Obter certificado Jr. Penetration Tester
-- [ ] Completar Red Teaming path
-- [ ] Desenvolver habilidades avançadas em web application security
-- [ ] Participar de CTFs competitivos
 
 ---
 
@@ -122,22 +101,6 @@ Computer Science Basics
 - ✅ Metodologias de pentesting
 
 **Ver detalhes completos:** [SKILLS.md](./SKILLS.md)
-
----
-
-## 📋 Rooms Completadas
-
-**Total:** 54 rooms
-
-### Por Categoria
-- 🌐 **Web Application Security:** 24 rooms (44%)
-- 🔍 **Network Security:** 9 rooms (17%)
-- 🐧 **Linux & Windows:** 7 rooms (13%)
-- 🔐 **Fundamentos:** 8 rooms (15%)
-- 🌐 **Networking:** 5 rooms (9%)
-- 🛡️ **OWASP Top 10:** 3 rooms (6%)
-
-**Lista completa:** [ROOMS-COMPLETED.md](./ROOMS-COMPLETED.md)
 
 ---
 
@@ -188,13 +151,3 @@ Este repositório documenta minha jornada de aprendizado em segurança cibernét
 Para estatísticas completas, progresso detalhado e métricas: [STATS.md](./STATS.md)
 
 *As estatísticas são atualizadas manualmente. Para ver dados em tempo real, visite meu [perfil no TryHackMe](https://tryhackme.com/p/JohnTitor).*
-
----
-
-<div align="center">
-
-**Última atualização:** Novembro 2025
-
-*Construindo habilidades em segurança cibernética, um dia de cada vez* 🔥
-
-</div>

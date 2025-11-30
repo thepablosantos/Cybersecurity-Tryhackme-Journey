@@ -66,22 +66,6 @@
 - Web Fundamentals (maior parte)
 - Introdução a Cyber Security 101
 
-### Em Desenvolvimento
-- Exploitation avançada (Metasploit)
-- Network security avançada
-- CTFs práticos
-
-## 🔄 Próximas Habilidades a Desenvolver
-
-- [ ] Metasploit (exploitation framework)
-- [ ] Advanced exploitation techniques
-- [ ] Post-exploitation
-- [ ] Privilege escalation (Linux/Windows)
-- [ ] Active Directory security
-- [ ] Advanced web application testing
-- [ ] CTF solving skills
-
 ---
-*Última atualização: Novembro 2025*
 
 
