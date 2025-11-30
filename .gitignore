@@ -1,0 +1,15 @@
+# Flags e soluções sensíveis
+**/flags.txt
+**/solutions.md
+**/writeups/*.md
+
+# Arquivos temporários
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+
