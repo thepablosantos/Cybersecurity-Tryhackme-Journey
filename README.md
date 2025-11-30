@@ -2,7 +2,7 @@
 
 > Professional documentation of my cybersecurity learning journey through TryHackMe, focused on **Red Team** and **Penetration Testing**.
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue)](https://tryhackme.com/p/JohnTitor)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue)](https://tryhackme.com/p/J0hnTitor)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/thepablosantos)
 
 ---
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-JohnTitor-2EFF00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/JohnTitor)
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-JohnTitor-2EFF00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/J0hnTitor)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 📊 TryHackMe Profile
 
-**Username:** [JohnTitor](https://tryhackme.com/p/JohnTitor)  
+**Username:** [J0hnTitor](https://tryhackme.com/p/J0hnTitor)  
 **Current Streak:** 🔥 13 days  
 **Rooms Completed:** 54  
 **Rank:** Top 10%  
@@ -139,7 +139,7 @@ This repository documents my cybersecurity learning journey.
 
 ## 🔗 Useful Links
 
-- [TryHackMe Profile](https://tryhackme.com/p/JohnTitor)
+- [TryHackMe Profile](https://tryhackme.com/p/J0hnTitor)
 - [GitHub Profile](https://github.com/thepablosantos)
 - [TryHackMe Platform](https://tryhackme.com)
 
@@ -149,4 +149,4 @@ This repository documents my cybersecurity learning journey.
 
 For complete statistics, detailed progress and metrics: [STATS.md](./STATS.md)
 
-*Statistics are updated manually. To see real-time data, visit my [TryHackMe profile](https://tryhackme.com/p/JohnTitor).*
+*Statistics are updated manually. To see real-time data, visit my [TryHackMe profile](https://tryhackme.com/p/J0hnTitor).*
